@@ -113,7 +113,7 @@ def send_dp(update, context):
 
 
 def main():
-    BOT_TOKEN = ''
+    BOT_TOKEN = '6116413872:AAHwJ-3a2oefzMhTHsVE6ppbrirUY2K5488'
     updater = Updater(BOT_TOKEN, use_context=True)
     dp = updater.dispatcher
 
